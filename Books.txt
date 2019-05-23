@@ -1,0 +1,6 @@
+Unbroken,    Laura Hillenbrand,    Nonfiction,    1977,    false
+The Scarlet Letter,    Nathaniel Hawthorne,    Romantic novel,    1850,    true
+Think Java: How to think like a computer scientist,	   Allen B. Downey,    Textbook,    2011,    false
+Batman is the joker,    Cetan Copeland,    Conspiracy Theory,    2020,    false
+The ludicrous enterprise of cat yar,    Cetan Copeland,    Elegy,    1999,    false
+The Scarlet Letter,    Nathaniel Hawthorne,    Romantic novel,    1850,    true
